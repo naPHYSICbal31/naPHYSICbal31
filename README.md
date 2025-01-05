@@ -1,5 +1,5 @@
 # 💫 About Me:
-CompSci Undergrad Fresher at BUET<br>Graduated from Notre Dame College ,Dhaka<br>Graduated from St. Joseph Higher Secondary School, Dhaka<br><br>
+CompSci Undergrad Fresher at BUET<br>Graduated from Notre Dame College ,Dhaka<br>Graduated from St. Joseph Higher Secondary School, Dhaka<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naPHYSICbal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frisen_quibol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafis-iqbal-04630820b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29059070/nafis-iqbal) 
 
