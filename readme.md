@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd4aGxiZXprMzF0bmRqZG5pbmI4YXl0NG4xbG9pMmNoaDhha3NnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif"  />
 </div>
 
@@ -53,6 +53,11 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naPHYSICbal31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naPHYSICbal31&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naPHYSICbal31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naPHYSICbal31&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
