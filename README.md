@@ -1,15 +1,9 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h1>👾 Intro</h1>
-    <p>Compsci Undergrad Fresher at BUET</p>
-    <p>Graduated from Notre Dame College & St. Joseph School, Dhaka</p>
-  </div>
-  <div>
-    <img height="350" 
-      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd4aGxiZXprMzF0bmRqZG5pbmI4YXl0NG4xbG9pMmNoaDdha3NmMSZ1cD12MV9pbnR1cm5hbF9naWZYnlfawQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif" 
-    />
-  </div>
+# 🎮 Intro
+Compsci Undergrad Fresher at BUET
+<div align="center">
+  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd4aGxiZXprMzF0bmRqZG5pbmI4YXl0NG4xbG9pMmNoaDhha3NnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif"  />
 </div>
+
 
 ###
 
