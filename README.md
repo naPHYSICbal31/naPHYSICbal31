@@ -1,12 +1,23 @@
-# 🎮 Intro
-Compsci Undergrad Fresher at BUET
-<div align="center">
-  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd4aGxiZXprMzF0bmRqZG5pbmI4YXl0NG4xbG9pMmNoaDhha3NnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif"  />
+<img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" 
+     style="width: 100vw; height: 20px; object-fit: cover;" 
+     alt="JINX was here" />
 </div>
-
-
-###
-
+<div align = "center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd4aGxiZXprMzF0bmRqZG5pbmI4YXl0NG4xbG9pMmNoaDhha3NnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif" 
+       style="justify-content: center;" 
+       alt="JINX was here" />
+  <h4 align="center">
+  Compsci Fresher at Bangladesh University of Engineering and Tech.
+</h4>
+<h3>ナフィス・イクバル</h3>
+</div>
+<div style="display: flex; justify-content: center; gap: 10px;">
+</div>
+<div style="width: 100vw; overflow: hidden;">
+<img src="https://ik.imagekit.io/jyx7871cz/4k_red_waves.jpeg" 
+     style="width: 100vw; height: 20px; object-fit: cover;" 
+     alt="JINX was here" />
+</div>
 <img src="https://raw.githubusercontent.com/naPHYSICbal31/naPHYSICbal31/output/snake.svg" alt="Snake animation" />
 
 ###
