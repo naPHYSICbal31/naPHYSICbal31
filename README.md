@@ -22,6 +22,8 @@
 
 ###
 
+# 📷 Papparazzi
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -34,6 +36,7 @@
 
 
 
+# 🍵 Academic Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Noir Dhaka™ using JavaFX](https://ytcards.demolab.com/?id=894GHH8NsuM&title=Noir+Dhaka%E2%84%A2+using+JavaFX&lang=en&timestamp=1753951024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Noir Dhaka™ using JavaFX")](https://www.youtube.com/watch?v=894GHH8NsuM)
@@ -41,7 +44,7 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-
+# ⚙️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
