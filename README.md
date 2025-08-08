@@ -48,7 +48,7 @@
   <img src="https://img.itch.zone/aW1hZ2UvMzA0NTIyNS8xODIyMDcxOC5wbmc=/794x1000/gTsilR.png" alt="Dethrone Preview" width="300"/>
 </a>
 
-<b>&nbsp;&nbsp;Dethrone usingUnity GameJam 2024</b>
+<b>&nbsp;&nbsp;Dethrone using Unity GameJam 2024</b>
 <h6>&nbsp;&nbsp;114 Views • 35 Downloads • 1 year ago</h6>
 
 # ⚙️ Tech Stack
