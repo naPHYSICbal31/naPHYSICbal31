@@ -7,7 +7,7 @@
        style="justify-content: center;" 
        alt="JINX was here" />
   <h4 align="center">
-  Compsci Fresher at Bangladesh University of Engineering and Tech.
+  Compsci Sophomore at Bangladesh University of Engineering and Tech.
 </h4>
 <h3>ナフィス・イクバル</h3>
 </div>
