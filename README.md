@@ -52,8 +52,9 @@
   <img src="https://img.itch.zone/aW1hZ2UvNDIzMjY3OC8yNTIyOTQwMi5wbmc=/original/pgTb5N.png" alt="ZeitGleich Preview" width="300"/>
 </a>
 
-<b>&nbsp;&nbsp;Dethrone using Unity GameJam 2024</b>
-<h6>&nbsp;&nbsp;114 Views • 35 Downloads • 1 year ago</h6>
+<b>Dethrone using Unity GameJam 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZeitGleich using Unity GameJam 2026 </b>
+<h6>114 Views • 35 Downloads • 2 years ago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;193 Views • 42 Downloads • 1 month ago</h6>
+
 
 # ⚙️ Tech Stack
 
