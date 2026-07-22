@@ -47,8 +47,9 @@
 
 # 👾 GameDevs
 <a href="https://naphysicbal.itch.io/astrokrieg">
-  <img src="https://img.itch.zone/aW1nLzI4NjQ5MzY0LnBuZw==/315x250%23c/oZQBZf.png" alt="AstroKrieg Preview" width="300"/>
+  <img src="https://img.itch.zone/aW1nLzI4NjQ5MzY0LnBuZw==/315x250%23c/oZQBZf.png" alt="AstroKrieg Preview" width="250"/>
 </a>
+
 <a href="https://naphysicbal.itch.io/dethrone">
   <img src="https://img.itch.zone/aW1hZ2UvMzA0NTIyNS8xODIyMDcxOC5wbmc=/794x1000/gTsilR.png" alt="Dethrone Preview" width="300"/>
 </a>
