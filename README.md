@@ -22,7 +22,7 @@
 
 ###
 
-# 📷 Paparazzi
+# 📷 Connections
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -46,6 +46,9 @@
 <!-- END YOUTUBE-CARDS -->
 
 # 👾 GameDevs
+<a href="https://naphysicbal.itch.io/astrokrieg">
+  <img src="https://img.itch.zone/aW1nLzI4NjQ5MzY0LnBuZw==/315x250%23c/oZQBZf.png" alt="AstroKrieg Preview" width="300"/>
+</a>
 <a href="https://naphysicbal.itch.io/dethrone">
   <img src="https://img.itch.zone/aW1hZ2UvMzA0NTIyNS8xODIyMDcxOC5wbmc=/794x1000/gTsilR.png" alt="Dethrone Preview" width="300"/>
 </a>
@@ -54,8 +57,8 @@
   <img src="https://img.itch.zone/aW1hZ2UvNDIzMjY3OC8yNTIyOTQwMi5wbmc=/original/pgTb5N.png" alt="ZeitGleich Preview" width="300"/>
 </a>
 
-<b>Dethrone using Unity GameJam 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZeitGleich using Unity GameJam 2026 </b>
-<h6>114 Views • 35 Downloads • 2 years ago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;193 Views • 42 Downloads • 1 month ago</h6>
+<b>AstroKrieg using Unity GameJam 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dethrone using Unity GameJam 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZeitGleich using Unity GameJam 2026 </b>
+<h6>318 Views • 21 Downloads • 1 month ago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;114 Views • 35 Downloads • 2 years ago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;193 Views • 42 Downloads • 1 month ago</h6>
 
 
 # ⚙️ Tech Stack
