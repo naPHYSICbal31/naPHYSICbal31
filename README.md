@@ -39,10 +39,7 @@
 # 🍵 Academic Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![AstroKrieg - Expedition 23 | IUT_12th_ICT_FEST2026](https://ytcards.demolab.com/?id=gIjiY1NPM7Q&title=AstroKrieg+-+Expedition+23+%7C+IUT_12th_ICT_FEST2026&lang=en&timestamp=1784659908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AstroKrieg - Expedition 23 | IUT_12th_ICT_FEST2026")](https://www.youtube.com/watch?v=gIjiY1NPM7Q)
-[![TeaBaggd using React & Supabase](https://ytcards.demolab.com/?id=_qNGoPm2ur0&title=TeaBaggd+using+React+%26+Supabase&lang=en&timestamp=1779552328&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "TeaBaggd using React & Supabase")](https://www.youtube.com/watch?v=_qNGoPm2ur0)
-[![Noir Dhaka™ using JavaFX](https://ytcards.demolab.com/?id=894GHH8NsuM&title=Noir+Dhaka%E2%84%A2+using+JavaFX&lang=en&timestamp=1753951024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Noir Dhaka™ using JavaFX")](https://www.youtube.com/watch?v=894GHH8NsuM)
-[![Checkers 102 using iGraphics](https://ytcards.demolab.com/?id=M_nweibe_5A&title=Checkers+102+using+iGraphics&lang=en&timestamp=1751998494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Checkers 102 using iGraphics")](https://www.youtube.com/watch?v=M_nweibe_5A)
+
 <!-- END YOUTUBE-CARDS -->
 
 # 👾 GameDevs
